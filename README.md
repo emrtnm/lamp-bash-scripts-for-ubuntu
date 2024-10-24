@@ -6,6 +6,7 @@ This script is written using the shell, in order to quickly deploy PHP environme
  - PHP 5.6
  - PHP 7.4
  - PHP 8.1
+ - PHP 8.2
  - MySQL5.7
  - MySQL8
  - phpMyAdmin4.9
@@ -39,7 +40,9 @@ sudo chmod +x ./lamp.sh
  - 7 = Add Domain
  - 8 = Remove Domain
  - 9 = Repair Chmod For Domain
- - 10 = Remove All Components!
+ - 10 = PHP8.2 + MySQL8
+ - 11 = PHP8.2 + MySQL8 + PhpMyAdmin
+ - 99 = Remove All Components!
 
 ## License
 

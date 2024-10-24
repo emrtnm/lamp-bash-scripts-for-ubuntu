@@ -3,6 +3,7 @@ DIVIDER="\n########################################\n\n"
 
 echo "Chmod For Folders: 755"
 echo "Chmod For Files: 644"
+echo "Owner For Domain: www-data"
 echo "Enter a domain name: \c"
 read domainname
 
